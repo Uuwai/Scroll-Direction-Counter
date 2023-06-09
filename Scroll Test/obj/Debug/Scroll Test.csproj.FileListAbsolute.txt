@@ -1,0 +1,9 @@
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\bin\Debug\Scroll Test.exe
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\bin\Debug\Scroll Test.pdb
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll Test.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll_Test.Form1.resources
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll_Test.Properties.Resources.resources
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll Test.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll Test.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll Test.exe
+C:\Users\Kapi\source\repos\Scroll Test\Scroll Test\obj\Debug\Scroll Test.pdb
